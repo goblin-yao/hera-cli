@@ -1,6 +1,6 @@
 # hera-cli
 
-Hera 项目脚手架，可以将小程序运行于iOS\Android\浏览器中
+WGHera 项目脚手架，转换小程序代码为H5
 
 ## 使用
 
